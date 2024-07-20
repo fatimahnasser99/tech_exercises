@@ -1,9 +1,8 @@
-Your Markdown file looks good! Here are some enhancements you might consider:
 # Daily Interview Pro Problems
 
 ## Overview
 
-This repository contains solutions to daily tech practice questions sent via the [Daily Coding Interview Practice Newsletter](https://www.techseries.dev/daily). 
+This section contains solutions to daily tech practice questions sent via the [Daily Coding Interview Practice Newsletter](https://www.techseries.dev/daily). 
 
 Each file includes:
 
