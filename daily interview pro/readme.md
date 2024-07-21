@@ -23,6 +23,7 @@ Each file includes:
 | Exercise | Approach | Link to File |
 |:----------:|:----------:|:----------:|
 | No Adjacent Repeating Characters | Greedy Algorithm | [View Solution](no_adjacent_repeating_characters.ipynb) |
+| Make the Largest Number | Greedy Algorithm | [View Solution](make_the_largest_number.ipynb) |
 
 
 
