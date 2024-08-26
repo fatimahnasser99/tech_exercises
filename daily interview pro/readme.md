@@ -20,10 +20,11 @@ Each file includes:
 
 ## Table of Contents
 
-| Exercise | Approach | Link to File |
-|:----------:|:----------:|:----------:|
-| No Adjacent Repeating Characters | Greedy Algorithm | [View Solution](no_adjacent_repeating_characters.ipynb) |
-| Make the Largest Number | Greedy Algorithm | [View Solution](make_the_largest_number.ipynb) |
+| ID | Exercise | Approach | Link to File |
+|:----------:|:----------:|:----------:|:----------:|
+| 1 | No Adjacent Repeating Characters | Greedy Algorithm | [View Solution](no_adjacent_repeating_characters.ipynb) |
+| 2 | Make the Largest Number | Greedy Algorithm | [View Solution](make_the_largest_number.ipynb) |
+| 3 |Invert a Binary Tree | Recursive Algorithm | [View Solution](invert_a_binary_tree.ipynb) |
 
 
 
